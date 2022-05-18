@@ -1,3 +1,3 @@
 # .github
 
-OpenFaaS brings Functions As A Service (FaaS) to Kubernetes
+This repo contains a README for the Organisation shown on the org profile page.
